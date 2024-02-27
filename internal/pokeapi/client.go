@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/zuekveer/pokedexcli/internal/pokecache"
+	"github.com/zuekveer/pokedexcli/internal/pokeapi/pokecache"
 )
 
 // Client -
